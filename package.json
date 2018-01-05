@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lorenzoferrante/server/issues"
   },
-  "homepage": "https://github.com/lorenzoferrante/server#readme"
+  "homepage": "https://github.com/lorenzoferrante/server#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
